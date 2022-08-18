@@ -1,5 +1,5 @@
 <h1> Hi, I'm Andrew! </h> 
-<p>Motivated high school student looking for a job in the technology industry </p>  
+-Motivated high school student looking for a job in the technology industry  
 
 <h2> CCNA stuff: </h2> 
 
