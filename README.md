@@ -1,1 +1,3 @@
-![Andrew's Github Stats](https://github-readme-stats.vercel.app/api?username=TheAndrewNguyen&show_icons=true&theme=radical)
+# Hi I'm Andrew
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=TheAndrewNguyen&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=TheAndrewNguyen&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
