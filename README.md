@@ -24,7 +24,6 @@ I am currently pursuing a degree in **Computer Science and Software Engineering*
 ![Google Test](https://img.shields.io/badge/Google_Test-%234C8E21?style=flat&logo=google&logoColor=white)
 ![CCNA](https://img.shields.io/badge/CCNA-%230053B2?style=flat&logo=cisco&logoColor=white)
 
-### Skills:
 - **Programming Languages:** C++, Java, Kotlin, JavaScript, R (data analysis), Bash, YAML
 - **Frameworks & Technologies:** Jetpack Compose, Qt, Node.js, Express.js, Firebase, Linux (Ubuntu)
 - **Cloud Computing & DevOps:** AWS, Azure, GitHub Actions (CI/CD pipelines)
