@@ -13,7 +13,6 @@ I am currently pursuing a degree in **Computer Science and Software Engineering*
 ![YAML](https://img.shields.io/badge/YAML-%23cb171e?style=flat&logo=yaml&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB?style=flat&logo=node.js&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59?style=flat&logo=express&logoColor=white)
-![Jetpack Compose Badge](https://img.shields.io/badge/Jetpack_Compose-1.0-blue?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-%23ffcb2b?style=flat&logo=firebase&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23008B8B?style=flat&logo=qt&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-%2365A4FF?style=flat&logo=vmware&logoColor=white)
