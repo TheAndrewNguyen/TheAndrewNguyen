@@ -2,7 +2,6 @@
 
 I am currently pursuing a degree in **Computer Science and Software Engineering** with minors in **Mathematics** and **Data Science** at the University of Washington. I am passionate about creating **efficient**, **scalable**, and **innovative applications** that solve real-world problems.
 
----
 
 ## Technologies I've Worked With
 
@@ -34,14 +33,13 @@ I am currently pursuing a degree in **Computer Science and Software Engineering*
   - **CCNA Certified:** Experienced in network configuration, design, and troubleshooting  
   - Proficient with routing protocols, VLANs, subnetting, and optimizing network security and performance  
 
----
+
 
 ## Certifications
 - **CCNA (Cisco Certified Network Associate)**  
 - **Azure Fundamentals (Microsoft Certified)**  
 - **LPI: Linux Essentials**  
 
----
 
 ## Let's Connect!
 
