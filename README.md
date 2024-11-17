@@ -1,7 +1,7 @@
 # Hi I'm Andrew!
-I'm a current student at the University of Washington majoring in Computer science & Software Engineering with a minor in Mathematics and Data Science.  I am passionate about creating efficent and scalable applications. 
+I am currently pursuing a degree in Computer Science and Software Engineering with minors in Mathematics and Data Science at the University of Washington. I am passionate about developing efficient and scalable applications.
 
-## Technolgies worked with: 
+## Technolgies I've worked with: 
 ![C++](https://img.shields.io/badge/C%2B%2B-%23f34b7d?style=flat&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23f8981d?style=flat&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5?style=flat&logo=kotlin&logoColor=white)
@@ -21,13 +21,20 @@ I'm a current student at the University of Washington majoring in Computer scien
 ![Google Test](https://img.shields.io/badge/Google_Test-%234C8E21?style=flat&logo=google&logoColor=white)
 ![CCNA](https://img.shields.io/badge/CCNA-%230053B2?style=flat&logo=cisco&logoColor=white)
 - **Programming Languages:** C++, Java, Kotlin, JavaScript, R (data analysis), Bash, Yaml
-- **Frameworks & Technologies:** Jetpack Compose, Qt, Node.js, Express.js, Firebase, Linux (Ubuntu), VMware
+- **Frameworks & Technologies:** Jetpack Compose, Qt, Node.js, Express.js, Firebase, Linux (Ubuntu),
 - **Cloud Computing & DevOps:** AWS, Azure, GitHub Actions (CI/CD)
 - **Testing & Quality Assurance:** JUnit, Google Test
-- **Networking & Infrastructure:**
-  - CCNA certified  
-  - Experience with routing protocols, network design, VLANs, subnetting, and troubleshooting  
-  - Proficient in configuring routers, switches, and firewalls for optimal performance and security
+- **Networking & Infrastructure:** CCNA certified: skilled in network configuration, design, and troubleshooting, including routing protocols, VLANs, subnetting, and optimizing network performance for security and efficienc  
+
+**IT certifications:**
+- CCNA (Cisco certififed network associate) 
+- Azure Fundamentals
+- LPI: Linux essentials
+
+**Lets connect!**
+- [Linkedin](https://www.linkedin.com/in/andrew-nguyen-5336b0162)
+- Email: anguye34@uw.edu
+  
 ---
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=TheAndrewNguyen&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=TheAndrewNguyen&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
