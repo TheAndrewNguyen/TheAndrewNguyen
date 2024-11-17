@@ -20,9 +20,9 @@ I'm a current student at the University of Washington majoring in Computer scien
 ![JUnit](https://img.shields.io/badge/JUnit-%23A8B9CC?style=flat&logo=junit5&logoColor=white)
 ![Google Test](https://img.shields.io/badge/Google_Test-%234C8E21?style=flat&logo=google&logoColor=white)
 ![CCNA](https://img.shields.io/badge/CCNA-%230053B2?style=flat&logo=cisco&logoColor=white)
-- **Programming Languages:** C++, Java, Kotlin, JavaScript, R (data analysis), BASH, YAML (CI/CD)
+- **Programming Languages:** C++, Java, Kotlin, JavaScript, R (data analysis), Bash, Yaml
 - **Frameworks & Technologies:** Jetpack Compose, Qt, Node.js, Express.js, Firebase, Linux (Ubuntu), VMware
-- **Cloud Computing & DevOps:** AWS, Azure, GitHub CI/CD
+- **Cloud Computing & DevOps:** AWS, Azure, GitHub Actions (CI/CD)
 - **Testing & Quality Assurance:** JUnit, Google Test
 - **Networking & Infrastructure:**
   - CCNA certified  
