@@ -48,4 +48,4 @@ I am currently pursuing a degree in **Computer Science and Software Engineering*
 ---
 
 ![Github Stats (Dark)](https://github-readme-stats.vercel.app/api?username=TheAndrewNguyen&show_icons=true&theme=dark#gh-dark-mode-only)  
-![Github Stats (Light)](https://github-readme-stats.vercel.app/api?username=TheAndrewNguyen&show_icons=true&theme=default#gh-light-mode-only)
+![Github Stats (Light)](https://github-readme-stats.vercel.app/api?username=TheAndrewNguyen&show_icons=true&theme=light#gh-light-mode-only)
