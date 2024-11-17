@@ -46,6 +46,15 @@ I am currently pursuing a degree in **Computer Science and Software Engineering*
 - **Email:** anguye34@uw.edu  
 
 ---
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=TheAndrewNguyen&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=TheAndrewNguyen&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=TheAndrewNguyen&show_icons=true" />
+</picture>
 
-![Github Stats (Dark)](https://github-readme-stats.vercel.app/api?username=TheAndrewNguyen&show_icons=true&theme=dark#gh-dark-mode-only)  
-![Github Stats (Light)](https://github-readme-stats.vercel.app/api?username=TheAndrewNguyen&show_icons=true&theme=light#gh-light-mode-only)
