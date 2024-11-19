@@ -23,8 +23,7 @@ I am currently pursuing a degree in **Computer Science and Software Engineering*
 ![JUnit](https://img.shields.io/badge/JUnit-%23A8B9CC?style=flat&logo=junit5&logoColor=white)
 ![Google Test](https://img.shields.io/badge/Google_Test-%234C8E21?style=flat&logo=google&logoColor=white)
 ![CCNA](https://img.shields.io/badge/CCNA-%230053B2?style=flat&logo=cisco&logoColor=white)
-![Retrofit](https://img.shields.io/badge/Retrofit-2.9.0-blue)
-![OkHttp](https://img.shields.io/badge/OkHttp-4.11.0-green)
+
 
 - **Programming Languages:** C++, Java, Kotlin, JavaScript, R (data analysis), Bash, YAML
 - **Frameworks & Technologies:** Jetpack Compose, Qt, Node.js, Express.js, Firebase, Linux (Ubuntu)
